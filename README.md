@@ -41,12 +41,6 @@ De frontend van de chatbot is gebouwd met HTML en CSS, terwijl JavaScript de int
 - **`script.js`**: Het frontend-script dat gebruikersinput naar de server stuurt en de chatbotreacties terugstuurt naar de interface.
 - **`index.html` en `styles.css`**: Deze bestanden zorgen voor de basisstructuur en styling van de gebruikersinterface van de chatbot.
 
-## Huidige Stand van Zaken en Uitdagingen
-
-- **Werkende chatbot met basisfunctionaliteiten**: De chatbot kan momenteel basisvragen over voetbal beantwoorden en gebruikt Dialogflow om intenten te herkennen en de juiste API-aanroepen te doen.
-- **Content Security Policy (CSP)**: Er zijn enkele uitdagingen met betrekking tot inline scripts en beveiligingsinstellingen in de frontend. Dit probleem vereist nog verdere aanpassingen.
-- **Optimalisatie van API-integratie**: De API-integratie is nog in ontwikkeling en vereist meer testing en optimalisatie om robuustere resultaten te garanderen.
-
 ## Conclusie
 
 Dit project toont aan dat AI-chatbots een groot potentieel hebben voor het vervangen of aanvullen van klantenservicefuncties, vooral voor routinematige vragen. De integratie van Dialogflow en de Football-Data API bewijst dat AI-chatbots effectief kunnen worden ingezet om real-time gegevens te verstrekken, wat de klantenservice ontlast. Hoewel de chatbot momenteel operationeel is, zal verdere optimalisatie de nauwkeurigheid en efficiëntie verbeteren.
